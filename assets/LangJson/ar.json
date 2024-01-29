@@ -1,0 +1,12 @@
+{
+    "national_bonds": "السندات الوطنية",
+    "login": "تسجيل الدخول",
+    "userName": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "forgotPassword": "هل نسيت كلمة السر؟",
+    "successful": "ناجح",
+    "loginSuccessful": "تم تسجيل الدخول بنجاح!!",
+    "loginUnsuccessful": "تسجيل الدخول غير ناجح!!",
+    "unsuccessful": "غير ناجح",
+    "homeScreen": "الشاشة الرئيسية"
+}
